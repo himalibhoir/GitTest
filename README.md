@@ -1,2 +1,2 @@
-new line# GitTest
-Read Me 
+# GitTest
+This a test GIT repository
