@@ -1,2 +1,2 @@
 # GitTest
-test repository
+Read Me 
